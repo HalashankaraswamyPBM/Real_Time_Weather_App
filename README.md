@@ -38,7 +38,7 @@ This project implements a real-time data processing system for monitoring weathe
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Sagar2506/Weather_App)
+   git clone (https://github.com/HalashankaraswamyPBM/Weather_App)
    cd Weather_App
 
 ## Result Snapshots
