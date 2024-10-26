@@ -42,7 +42,4 @@ This project implements a real-time data processing system for monitoring weathe
    cd Weather_App
 
 ## Result Snapshots
-![Weather_App](https://github.com/user-attachments/assets/47d63b1c-925e-4294-8409-224d0e06a183)
-
-
-![Weather_Bengaluru](https://github.com/user-attachments/assets/cff693b9-f5ba-41c5-86b5-f7be877c92f3)
+![Weather_App](https://github.com/user-attachments/assets/2892968a-2fef-4ca7-8184-d164cc8049e8)
