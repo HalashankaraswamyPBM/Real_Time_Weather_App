@@ -1,4 +1,4 @@
-const apiKey = '45942193b08d5667e553df1aa43773b1'; // Your OpenWeatherMap API key
+const apiKey = 'Paste API key'; // Your OpenWeatherMap API key
 const weatherOutput = document.getElementById('weatherOutput');
 
 document.getElementById('fetchWeather').addEventListener('click', fetchWeather);
